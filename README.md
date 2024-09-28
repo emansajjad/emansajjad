@@ -11,7 +11,7 @@ Hi there! I'm Eman, an open-minded learner always hungry for new knowledge. 🌱
 ## 🚧 Projects
 
 Here are some of the projects I've worked on:
-- **[Application Development](https://github.com/emansajjad/Application-Development)**: A collection of mobile applications built using Flutter.
+- **[Application Development](https://github.com/emansajjad/Application-Development)**: A collection of mobile application concepts used in Flutter.
 - **[Flutter Login Screen](https://github.com/emansajjad/Flutter_login_screen)**: A sleek and responsive login screen built with Flutter.
 - **[Internship Pakistan - Flutter Tasks](https://github.com/emansajjad/IP-Flutter-Development24-Tasks)**: Tasks completed during my internship in Flutter development.
 
