@@ -1,6 +1,9 @@
 # 👩‍💻 Eman (emansajjad) | Coding Enthusiast on a Learning Journey 
 
 Hi there! I'm Eman, an open-minded learner always hungry for new knowledge. 🌱 Currently diving deep into mobile app development with Flutter, and piecing together the coding puzzle bit by bit. 🚀
+"🦋 She Flutters | Crafting apps with love 💻 | Creating dreams and weaving magic ✨."
+
+
 
 ---
 
