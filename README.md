@@ -37,7 +37,7 @@ Currently learning:
 
 | Project | Description | Tech Used |
 |--------|-------------|-----------|
-| ✅ [Smart Degree Recommendation App](https://github.com/emansajjad/smart-degree-recommendation-app) | AI-powered platform for students to discover degrees and connect via real-time forums. | Flutter, Firebase, AI Logic |
+| ✅ [Smart Degree Recommendation App](https://github.com/emansajjad/Project)| AI-powered platform for students to discover degrees and connect via real-time forums. | Flutter, Firebase, AI Logic |
 | 🍲 [Recipe App](https://github.com/emansajjad/Recipe-App) | Upload, search, and browse recipes with image storage and user-friendly design. | Flutter, Firebase |
 | 📋 [To-do List App](https://github.com/emansajjad/To-do-List-App) | Task management app with Shared Preferences and dynamic UI. | Flutter |
 | ❓ [Quiz App](https://github.com/emansajjad/Quiz-app) | Score tracking, answer review, and timed quizzes with feedback. | Flutter |
