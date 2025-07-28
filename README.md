@@ -82,7 +82,7 @@ Other platforms:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-emansajjad-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/emansajjad)  
 [![GitHub](https://img.shields.io/badge/GitHub-emansajjad-181717?style=for-the-badge&logo=github)](https://github.com/emansajjad)  
-📧 Email: [emaannsajjad@gmail.com](mailto:emaannsajjad@gmail.com)
+📧 Email: [eman.sajjad.dev@gmail.com](mailto:eman.sajjad.dev@gmail.com)
 
 ---
 
