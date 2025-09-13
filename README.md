@@ -17,7 +17,7 @@ I specialize in:
 - ⚡ Clean Code & Performance Optimization
 
 Currently learning:  
-**AI**, **Node.js**, and **Web Development** to expand my full-stack skills.
+**AI** to expand my full-stack skills.
 
 ---
 
@@ -61,14 +61,14 @@ Currently learning:
 ## 📜 Certifications
 
 - 🏆 *Flutter Foundations Bootcamp* — Microsoft Learn Student Ambassadors  
-- 🛠 *GitHub for Beginners* — Microsoft Learn
+- 🛠 *GitHub for Beginners* — Microsoft Learn Student Ambassadors 
 
 ---
 
 ## 🎓 Education
 
 **COMSATS University Islamabad, Attock**  
-🧑‍🎓 *BS Software Engineering (2021 – 2025)*
+ *BS Software Engineering (2021 – 2025)*
 
 ---
 
