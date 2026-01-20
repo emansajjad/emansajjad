@@ -1,96 +1,103 @@
-<h1 align="center">👩‍💻 Eman Sajjad — Flutter Developer</h1>
+<h1 align="center">👩‍💻 Eman Sajjad</h1>
+<p align="center">
+  <strong>Software Engineer & Flutter Specialist</strong><br>
+  <em>Transforming complex visions into high-performance, scalable mobile experiences.</em>
+</p>
 
 <p align="center">
-  <em>Crafting beautiful UIs • Powering apps with Firebase • Turning ideas into reality ✨</em>
+  <a href="https://www.linkedin.com/in/emansajjad"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="mailto:eman.sajjad.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/emansajjad"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
 </p>
 
 ---
 
-## 🪄 About Me
+## 🚀 Executive Summary
 
-Hi! I'm **Eman**, a Flutter developer with a strong passion for building elegant, responsive, and real-world mobile apps.  
-I specialize in:
+I am a dedicated **Flutter Developer** passionate about crafting **beautiful, scalable, and high-performance mobile applications**. I specialize in bridging the gap between sophisticated Figma designs and fluid user experiences while integrating advanced backend and AI features.
 
-- 📱 Flutter & Dart Development  
-- 🔥 Firebase Integration (Auth, Firestore, Storage)  
-- 🎨 Figma to Flutter UI Implementation  
-- ⚡ Clean Code & Performance Optimization
-
-Currently learning:  
-**AI** to expand my full-stack skills.
+### 🎯 Core Expertise
+- **Mobile Development:** Flutter & Dart Ecosystem  
+- **Cloud & Backend:** Firebase & Supabase (Auth, Firestore, Storage, Role-based Access)  
+- **Architecture & Practices:** Clean Code, State Management (Provider), Performance Optimization  
+- **Advanced Features:** Computer Vision (Edge Detection), Smart Filters, Camera Integration, AI-powered solutions  
+- **Data Management:** Local Persistence (Hive, Isar, Shared Preferences) & RESTful API Architecture  
+- **UI/UX Design:** Figma to Flutter Conversion, Responsive and Interactive Interfaces  
 
 ---
 
-## 🧰 Tools & Tech Stack
+## 💼 Professional Experience
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS--Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+### **Flutter Developer Intern — Cognisons (PSEB Program)**  
+📍 *Remote | Nov 2025 – Present*  
+- **Enterprise Solutions:** Architecting E-commerce and Admin applications using **Supabase** for secure, role-based access and real-time synchronization.  
+- **Computer Vision Module:** Building document scanning features with camera integration, edge detection, and smart image optimization.  
+- **Collaboration & Workflow:** Using Git professionally with branching, pull requests, and peer code reviews. Optimizing user flows for efficiency.  
+
+### **Intern Flutter Developer — Internship Pakistan**  
+📍 *Remote | Aug – Oct 2024*  
+- **Rapid Development:** Delivered 4+ apps including Recipe, Quiz, Shopping, and To-do List platforms.  
+- **Backend Integration:** Implemented Firebase services and local data persistence for offline capability.  
+- **UI/UX Excellence:** Designed responsive interfaces ensuring smooth performance across all devices.  
+
+---
+
+## 🧰 Tech Stack & Tooling
+
+### **Frontend & Backend**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) 
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) 
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) 
+![REST API](https://img.shields.io/badge/REST-007ACC?style=for-the-badge)
+
+### **Databases & Design**
+![HiveDB](https://img.shields.io/badge/Hive-000000?style=for-the-badge&logo=hive&logoColor=yellow) 
+![IsarDB](https://img.shields.io/badge/Isar-5C5CFF?style=for-the-badge) 
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
----
-
-## 🚀 Projects Showcase
-
-| Project | Description | Tech Used |
-|--------|-------------|-----------|
-| ✅ [Smart Degree Recommendation App](https://github.com/emansajjad/Project)| AI-powered platform for students to discover degrees and connect via real-time forums. | Flutter, Firebase, AI Logic |
-| 🍲 [Recipe App](https://github.com/emansajjad/Recipe-App) | Upload, search, and browse recipes with image storage and user-friendly design. | Flutter, Firebase |
-| 📋 [To-do List App](https://github.com/emansajjad/To-do-List-App) | Task management app with Shared Preferences and dynamic UI. | Flutter |
-| ❓ [Quiz App](https://github.com/emansajjad/Quiz-app) | Score tracking, answer review, and timed quizzes with feedback. | Flutter |
-| 🛍 [Shopping App](https://github.com/emansajjad/Shopping_App) | A smooth cart experience with transitions and swipe-to-delete. | Flutter |
-| 🔐 [Login UI](https://github.com/emansajjad/Flutter_login_screen) | Responsive login screens with form validation. | Flutter |
-| 💡 [Mini Projects](https://github.com/emansajjad/Flutter-Form-and-A-counter) | Snippets and UI/logic demos built while learning Flutter. | Flutter |
-| 📱 [App Dev Concepts](https://github.com/emansajjad/Application-Development) | Core app development practices and experimentation. | Flutter |
+### **Version Control & IDE**
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github) 
+![VS Code](https://img.shields.io/badge/VS--Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 💼 Experience
+## 📂 Project Showcase
 
-**Flutter Developer Intern**  
-📍 *Remote | Aug – Oct 2024*  
-- Delivered 5+ production-ready apps  
-- Implemented Firebase backend solutions  
-- Optimized performance and UI/UX across projects
-
----
-
-## 📜 Certifications
-
-- 🏆 *Flutter Foundations Bootcamp* — Microsoft Learn Student Ambassadors  
-- 🛠 *GitHub for Beginners* — Microsoft Learn Student Ambassadors 
+| Project | Technical Highlights | Links |
+|:--- |:--- |:---:|
+| **Smart Degree Recommendation** | AI-powered logic, real-time forums, personalized UX. | [🔗 GitHub](https://github.com/emansajjad/Project) |
+| **Advanced Recipe App** | Cloud image storage, search algorithms, interactive UI. | [🔗 GitHub](https://github.com/emansajjad/Recipe-App) |
+| **Shopping Ecosystem** | High-performance cart, smooth transitions, gesture navigation. | [🔗 GitHub](https://github.com/emansajjad/Shopping_App) |
+| **Productivity Suite (To-Do)** | Local persistence (Hive/Isar), dynamic task scheduling. | [🔗 GitHub](https://github.com/emansajjad/To-do-List-App) |
+| **Interactive Quiz Platform** | Real-time score tracking, post-quiz analytics. | [🔗 GitHub](https://github.com/emansajjad/Quiz-app) |
+| **Identity & Access UI** | Responsive authentication flows with validation. | [🔗 GitHub](https://github.com/emansajjad/Flutter_login_screen) |
+| **App Dev Concepts** | Core engineering practices & UI experimentation. | [🔗 GitHub](https://github.com/emansajjad/Application-Development) |
+| **Mini Projects Portfolio** | UI logic and rapid prototyping demos. | [🔗 GitHub](https://github.com/emansajjad/Flutter-Form-and-A-counter) |
 
 ---
 
-## 🎓 Education
+## 📜 Professional Credentials
 
-**COMSATS University Islamabad, Attock**  
- *BS Software Engineering (2021 – 2025)*
+- 🎓 **BS Software Engineering** — COMSATS University Islamabad, Attock (2021 – 2025)  
+- 🏆 **Flutter Foundations Bootcamp** — Microsoft Learn Student Ambassadors  
+- 🛠 **GitHub for Engineers** — Microsoft Learn Student Ambassadors  
 
 ---
-
-## 🔗 Let's Connect
-
-I'm open to freelance projects! Reach out to me on Fiverr:
-
-[![Fiverr](https://img.shields.io/badge/Fiverr-Available%20for%20Freelance-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/zWQY1Gv)
-
-Other platforms:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-emansajjad-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/emansajjad)  
-[![GitHub](https://img.shields.io/badge/GitHub-emansajjad-181717?style=for-the-badge&logo=github)](https://github.com/emansajjad)  
-📧 Email: [eman.sajjad.dev@gmail.com](mailto:eman.sajjad.dev@gmail.com)
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emansajjad&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emansajjad&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=emansajjad&show_icons=true&theme=radical&hide=prs,issues&border_radius=10" alt="Eman Sajjad GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emansajjad&layout=compact&theme=radical&hide=Jupyter%20Notebook&border_radius=10" alt="Top Languages" />
+</p>
 
 ---
 
-> *“Code is like humor. When you have to explain it, it’s bad.” — Cory House*
+<p align="center">
+  <em>“The best code is elegant, efficient, and invisible — it just works.”</em><br>
+  <strong>— Eman Sajjad</strong>
+</p>
