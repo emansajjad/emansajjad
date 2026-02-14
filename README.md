@@ -119,8 +119,8 @@ I effectively **bridge design and engineering**, focusing on **performance, main
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emansajjad&show_icons=true&theme=dracula&hide=prs,issues&border_radius=10" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emansajjad&layout=compact&theme=dracula&border_radius=10" alt="Top Languages" />
+  <img src="https://githubreadmestatsfast.vercel.app/api?username=emansajjad&show_icons=true&theme=dracula&hide=prs,issues&border_radius=10" alt="GitHub Stats Fast" />
+  <img src="https://githubreadmestatsfast.vercel.app/api/top-langs/?username=emansajjad&layout=compact&theme=dracula&border_radius=10" alt="Top Languages Fast" />
 </div>
 
 ---
